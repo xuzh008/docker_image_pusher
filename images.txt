@@ -2,6 +2,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #gitlab/gitlab-ce:17.3.1-ce.0
-xhofe/alist-aria2
+#xhofe/alist-aria2
+jeessy/ddns-go:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
