@@ -1,7 +1,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-gitlab/gitlab-ce:17.3.5-ce.0
+gitlab/gitlab-ce:17.4.2-ce.0
 #xhofe/alist-aria2
 #jeessy/ddns-go:latest
 #支持指定架构
