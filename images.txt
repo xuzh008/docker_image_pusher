@@ -3,7 +3,8 @@
 #xhofe/alist:latest
 #gitlab/gitlab-ce:17.4.2-ce.0
 #elastic/elasticsearch:6.0.0
-nacos/nacos-server:v1.4.8
+#nacos/nacos-server:v1.4.8
+mysql:5.7
 #xhofe/alist-aria2
 #jeessy/ddns-go:latest
 #支持指定架构
